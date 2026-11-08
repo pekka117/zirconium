@@ -2,6 +2,8 @@
 
 ***Do you like how I dance? I've got Zirconium pants!***
 
+party allnight
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73e4e017-893b-46fc-b6ce-351c176d444c" />
 
 ## What is Zirconium?
@@ -71,7 +73,7 @@ Currently the Nvidia kernel module and OGC kernel used in Jackrabbit are not bei
 
 Yes! Put your Niri customizations in `~/.config/niri/local.kdl` (for your user) or `/etc/niri/local.kdl` (for system-wide customizations).
 
-We update our dotfiles in OS updates, which will overwrite the default `~/.config/niri/config.kdl` file. If you edit it, it might get overwritten in a future update. 
+We update our dotfiles in OS updates, which will overwrite the default `~/.config/niri/config.kdl` file. If you edit it, it might get overwritten in a future update.
 
 ## Zirconium is a stupid name. Why did you pick Zirconium?
 
